@@ -1,0 +1,9 @@
+Redirects == Address FIlter with same domain// Include Type in Output
+
+Destination == Address FIlter with same domain// Include Type in Output
+
+Web Performance == Output for every columns// Filter for Status Code 200 & Content Type Includes Text/HTML
+
+Page/Meta == Have column for all issues also
+
+All inLinks == Add Column Similarity
